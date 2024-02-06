@@ -1,2 +1,11 @@
-# sistema-de-soma-java
-Exercício de um programa que soma dois valores recebidos do usuário e retorna o resultado no console.
+# Programa: Sistema da soma!
+- Data: 06/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um código de baixa complexidade de um programa que soma dois valores recebidos do usuário e retorna o resultado no console.
+- Temas envolvidos:
+  - Variáveis;
+  - Entrada de dados: 'objeto'.nextInt()
+  - Saída de dados: System.out.println
+  - Biblioteca: java.util.Scanner
+  - Operador aritmético: '+'
+  - Concatenação
